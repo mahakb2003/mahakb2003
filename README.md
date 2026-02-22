@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I am a Data Analyst and aspiring Business Analyst with a strong foundation in data analytics, machine learning, and business insights. I enjoy working with data to uncover patterns, build dashboards, and support data-driven decision-making.
+I am a Data Analyst and aspiring Product Analyst with a strong foundation in data analytics, machine learning, and business insights. I enjoy working with data to uncover patterns, build dashboards, and support data-driven decision-making.
 
 I have hands-on experience through internships and projects involving large datasets, KPI tracking, and performance analysis.
 
