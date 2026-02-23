@@ -26,10 +26,13 @@ I have hands-on experience through internships and projects involving large data
 ---
 
 ## 🌱 Currently Exploring
-- Advanced SQL & Query Optimization  
-- Machine Learning for Business Use Cases  
-- Cloud Platforms (AWS basics)  
-- Data Storytelling & Stakeholder Communication  
+- Advanced SQL & Query Optimization
+- Machine Learning for Business Use Cases
+- Cloud Platforms (AWS Basics)
+- Data Storytelling & Stakeholder Communication
+- Python for Data Analysis & Automation
+- Power BI for Dashboarding & Visualization
+- Excel (Advanced) for Data Analysis & Reporting
 
 ---
 
