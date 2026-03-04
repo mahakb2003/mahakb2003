@@ -59,15 +59,11 @@ Visual storytelling through Power BI + Python pipelines
 
 # 📊 GitHub Stats
 
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahakb2003&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahakb2003&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
+ 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mahakb2003&theme=tokyonight)
 
