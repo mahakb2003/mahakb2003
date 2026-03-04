@@ -1,58 +1,91 @@
-🌸 Hi, I'm Mahak Bisht
+Hi there! I'm Mahak Bisht 👋  
+**Data Analyst | Business Analytics Enthusiast | Python, SQL & Power BI**
 
-Welcome to my GitHub profile.
+🚀 I’m a final-year B.Tech student at **Guru Gobind Singh Indraprastha University, Delhi** with a strong interest in **data analytics, business insights, and decision-making through data**.
 
-I am a Data Analyst and aspiring Data Scientist with a strong foundation in data analytics, machine learning, and business insights. I enjoy working with data to uncover patterns, build dashboards, and support data-driven decision-making.
+📊 I enjoy transforming complex datasets into **actionable insights, dashboards, and predictive models** that help businesses improve performance and strategy.
 
-I have hands-on experience through internships and projects involving large datasets, KPI tracking, and performance analysis.
-
----
-
-## 💼 What I Do
-- Analyze structured and unstructured data to extract actionable insights  
-- Build interactive dashboards and reports using Power BI and Excel  
-- Write optimized SQL queries for data extraction and validation  
-- Apply basic machine learning models for prediction and analysis  
-- Translate business problems into data-driven solutions  
+💼 I have experience working with large datasets and business reporting through my internships with **Indian Navy (WESEE)** and **Times Internet**.
 
 ---
 
-## 📊 Featured Work
-- Financial & Operational Analytics (500K+ records, KPI tracking)  
-- Customer Churn Analysis using Machine Learning  
-- Vendor Performance & Reporting Dashboard  
-- Sales & Business Performance Insights Dashboard  
+# 💼 Professional Experience
+
+**Data Science Intern — Indian Navy (WESEE)**  
+*Oct 2025 – Present*  
+- Built Power BI and Excel dashboards to monitor operational risk and performance KPIs  
+- Analyzed **500K+ records** to identify system risks and operational trends  
+- Automated reporting workflows, reducing manual reporting time by **20%**  
+- Collaborated with stakeholders to improve data accuracy by **17%**
+
+**Data Analyst Intern — Times Internet**  
+*Feb 2024 – Aug 2024*  
+- Queried and validated large datasets using **SQL and Excel**  
+- Built KPI reports and supported business teams with data-driven insights  
+- Improved reporting efficiency by **11%**
 
 ---
 
-## 🌱 Currently Exploring
-- Advanced SQL & Query Optimization
-- Machine Learning for Business Use Cases
-- Cloud Platforms (AWS Basics)
-- Data Storytelling & Stakeholder Communication
-- Python for Data Analysis & Automation
-- Power BI for Dashboarding & Visualization
-- Excel (Advanced) for Data Analysis & Reporting
+# 📊 What I Love Working On
+
+- Data Analysis & Business Insights
+- KPI Tracking & Dashboard Development
+- Customer Segmentation & Behavior Analysis
+- Financial & Operational Analytics
+- Machine Learning for Predictive Insights
 
 ---
 
-## 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/mahak-bisht-79241528a  
-- GitHub: https://github.com/mahakb2003  
+# 🛠 Tech Stack
+
+### Languages & Tools
+Python | SQL | Power BI | Excel | Git | Jupyter Notebook | VS Code
+
+### Python Libraries
+Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+
+### Databases
+MySQL | PostgreSQL | SQL Server
+
+### Skills
+Data Cleaning • Exploratory Data Analysis • Data Visualization  
+Business Intelligence • Dashboard Development • Machine Learning
 
 ---
 
-## 💻 Tech Stack
-- **Languages:** Python, SQL  
-- **Analytics Tools:** Power BI, Excel  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Machine Learning:** Scikit-learn (Regression, Classification, Model Evaluation)  
-- **Database:** MySQL  
-- **Tools:** Git, Jupyter Notebook, VS Code  
+# 📌 Featured Projects
+
+### 📊 Financial Operations Analytics
+- Built churn prediction models and customer segmentation using **K-Means & RFM analysis**
+- Analyzed subscription revenue trends and customer retention patterns
+
+### 🛒 GameZone E-commerce Analytics
+- Performed end-to-end e-commerce data analysis  
+- Identified product demand trends and business growth opportunities
+
+### 🚨 Fraud Detection System
+- Built machine learning models to detect fraudulent transactions  
+- Deployed an interactive **Gradio UI** for real-time predictions
+
+### 📈 Vendor Performance Analysis
+- Evaluated vendor sales performance and operational efficiency  
+- Identified underperforming vendors and improvement opportunities
+
+### 📉 Trader Sentiment Analysis
+- Analyzed market sentiment patterns using financial data  
+- Visualized trading behavior and sentiment trends
 
 ---
 
-## 🚀 Goal
-To build impactful data solutions that bridge the gap between data and business decisions, while continuously growing as a data professional.
+# 📊 GitHub Stats
+![Mahak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahakb2003&show_icons=true&theme=tokyonight)
 
 ---
+
+# 🤝 Let’s Connect!
+
+📫 Email: **mahak.bisht2003@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/mahak-bisht-79241528a  
+💻 GitHub: https://github.com/mahakb2003  
+
+⚡ Fun fact: I enjoy turning messy datasets into **clean dashboards and clear business insights.**
