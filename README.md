@@ -1,7 +1,10 @@
-Hi there! I'm Mahak Bisht 👋  
-**Data Analyst | Business Analytics Enthusiast | Python, SQL & Power BI**
+                                                                               Mahak Bisht 
+                                                      Data Analyst | Business Analytics Enthusiast | Power BI & Python
 
-🚀 I’m a final-year B.Tech student at **Guru Gobind Singh Indraprastha University, Delhi** with a strong interest in **data analytics, business insights, and decision-making through data**.
+
+
+
+ I’m a final-year B.Tech student at **Guru Gobind Singh Indraprastha University, Delhi** with a strong interest in **data analytics, business insights, and decision-making through data**.
 
 📊 I enjoy transforming complex datasets into **actionable insights, dashboards, and predictive models** that help businesses improve performance and strategy.
 
