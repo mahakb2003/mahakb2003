@@ -81,6 +81,7 @@ Business Intelligence • Dashboard Development • Machine Learning
 ---
 
 # 📊 GitHub Stats
+
 ![Mahak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahakb2003&show_icons=true&theme=tokyonight)
 
 ---
