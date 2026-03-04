@@ -10,26 +10,9 @@
 
 💼 I have experience working with large datasets and business reporting through my internships with **Indian Navy (WESEE)** and **Times Internet**.
 
----
+--
 
-# 💼 Professional Experience
-
-**Data Science Intern — Indian Navy (WESEE)**  
-*Oct 2025 – Present*  
-- Built Power BI and Excel dashboards to monitor operational risk and performance KPIs  
-- Analyzed **500K+ records** to identify system risks and operational trends  
-- Automated reporting workflows, reducing manual reporting time by **20%**  
-- Collaborated with stakeholders to improve data accuracy by **17%**
-
-**Data Analyst Intern — Times Internet**  
-*Feb 2024 – Aug 2024*  
-- Queried and validated large datasets using **SQL and Excel**  
-- Built KPI reports and supported business teams with data-driven insights  
-- Improved reporting efficiency by **11%**
-
----
-
-# 📊 What I Love Working On
+ 📊 What I Love Working On
 
 - Data Analysis & Business Insights
 - KPI Tracking & Dashboard Development
@@ -38,43 +21,37 @@
 - Machine Learning for Predictive Insights
 
 ---
+🛠️ My Tech Toolkit Includes:
 
-# 🛠 Tech Stack
+Languages & Tools: Python, SQL, Power BI, Excel
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Domains: Data Analysis, Machine Learning, Storytelling Dashboards
 
-### Languages & Tools
-Python | SQL | Power BI | Excel | Git | Jupyter Notebook | VS Code
+💡 I'm also diving deep into:
 
-### Python Libraries
-Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+Real-time ML projects (e.g., sign language recognition using LSTM)
+E-commerce analytics (like Nutrabay & MARS Cosmetics dashboards)
+Visual storytelling through Power BI + Python pipelines
 
-### Databases
-MySQL | PostgreSQL | SQL Server
+📌 Featured Projects
 
-### Skills
-Data Cleaning • Exploratory Data Analysis • Data Visualization  
-Business Intelligence • Dashboard Development • Machine Learning
-
----
-
-# 📌 Featured Projects
-
-### 📊 Financial Operations Analytics
+ 📊 Financial Operations Analytics
 - Built churn prediction models and customer segmentation using **K-Means & RFM analysis**
 - Analyzed subscription revenue trends and customer retention patterns
 
-### 🛒 GameZone E-commerce Analytics
+🛒 GameZone E-commerce Analytics
 - Performed end-to-end e-commerce data analysis  
 - Identified product demand trends and business growth opportunities
 
-### 🚨 Fraud Detection System
+🚨 Fraud Detection System
 - Built machine learning models to detect fraudulent transactions  
 - Deployed an interactive **Gradio UI** for real-time predictions
 
-### 📈 Vendor Performance Analysis
+ 📈 Vendor Performance Analysis
 - Evaluated vendor sales performance and operational efficiency  
 - Identified underperforming vendors and improvement opportunities
 
-### 📉 Trader Sentiment Analysis
+ 📉 Trader Sentiment Analysis
 - Analyzed market sentiment patterns using financial data  
 - Visualized trading behavior and sentiment trends
 
