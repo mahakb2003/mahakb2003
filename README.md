@@ -1,5 +1,5 @@
 #                                           Mahak Bisht 
-#                     Data Analyst | Business Analytics Enthusiast | Power BI & Python
+#                                          Data Analyst 
 
 
 
