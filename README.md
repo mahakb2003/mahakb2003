@@ -27,12 +27,6 @@ Languages & Tools: Python, SQL, Power BI, Excel
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Domains: Data Analysis, Machine Learning, Storytelling Dashboards
 
-💡 I'm also diving deep into:
-
-Real-time ML projects (e.g., sign language recognition using LSTM)
-E-commerce analytics (like Nutrabay & MARS Cosmetics dashboards)
-Visual storytelling through Power BI + Python pipelines
-
 📌 Featured Projects
 
  📊 Financial Operations Analytics
