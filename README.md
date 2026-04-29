@@ -34,8 +34,6 @@
 
 ## 📌 Key Projects
 
-## 📌 Key Projects
-
 ### 📊 Financial Operations Analytics
 - Analyzed subscription and revenue data using **SQL, Python, and Excel**  
 - Built **customer segmentation (RFM, K-Means)** and churn prediction models using **Machine Learning**  
