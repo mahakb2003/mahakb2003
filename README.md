@@ -6,49 +6,70 @@
 
  I’m a final-year B.Tech student at **Guru Gobind Singh Indraprastha University, Delhi** with a strong interest in **data analytics, business insights, and decision-making through data**.
 
-📊 I enjoy transforming complex datasets into **actionable insights, dashboards, and predictive models** that help businesses improve performance and strategy.
 
-💼 I have experience working with large datasets and business reporting through my internships with **Indian Navy (WESEE)** and **Times Internet**.
+📊 I specialize in transforming complex datasets into **actionable insights, KPI dashboards, and predictive models** to support business performance and strategy.
 
---
-
- 📊 What I Love Working On
-
-- Data Analysis & Business Insights
-- KPI Tracking & Dashboard Development
-- Customer Segmentation & Behavior Analysis
-- Financial & Operational Analytics
-- Machine Learning for Predictive Insights
+💼 I have hands-on experience working with large datasets and business reporting through internships at **Indian Navy (WESEE)** and **Times Internet**.
 
 ---
-🛠️ My Tech Toolkit Includes:
 
-Languages & Tools: Python, SQL, Power BI, Excel
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-Domains: Data Analysis, Machine Learning, Storytelling Dashboards
+## 📊 What I Work On
 
-📌 Featured Projects
+- Data Analysis & Business Insights  
+- KPI Tracking & Dashboard Development  
+- Customer Segmentation & Behavior Analysis  
+- Financial & Operational Analytics  
+- Machine Learning for Predictive Insights  
 
- 📊 Financial Operations Analytics
-- Built churn prediction models and customer segmentation using **K-Means & RFM analysis**
-- Analyzed subscription revenue trends and customer retention patterns
+---
 
-🛒 GameZone E-commerce Analytics
-- Performed end-to-end e-commerce data analysis  
-- Identified product demand trends and business growth opportunities
+## 🛠️ Tech Stack
 
-🚨 Fraud Detection System
-- Built machine learning models to detect fraudulent transactions  
-- Deployed an interactive **Gradio UI** for real-time predictions
 
- 📈 Vendor Performance Analysis
-- Evaluated vendor sales performance and operational efficiency  
-- Identified underperforming vendors and improvement opportunities
+**Languages & Tools:** Python, SQL, Power BI, Excel  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Core Skills:** Data Cleaning, EDA, Dashboarding, Statistical Analysis, Machine Learning  
 
- 📉 Trader Sentiment Analysis
-- Analyzed market sentiment patterns using financial data  
-- Visualized trading behavior and sentiment trends
+---
 
+## 📌 Key Projects
+
+## 📌 Key Projects
+
+### 📊 Financial Operations Analytics
+- Analyzed subscription and revenue data using **SQL, Python, and Excel**  
+- Built **customer segmentation (RFM, K-Means)** and churn prediction models using **Machine Learning**  
+- Developed **Power BI dashboards** to track revenue, retention, and customer risk  
+
+---
+
+### 📉 Telecom Churn Analysis & Prediction
+- Built an **ETL/ELT data pipeline** to extract, transform, and load telecom data using **SQL and Python**  
+- Processed and analyzed large datasets using **Pandas and NumPy**  
+- Developed a **Random Forest model** to predict high-risk customers  
+- Created **Power BI dashboards** to visualize churn trends and customer insights  
+
+---
+
+### 🚚 Vendor Performance & Supply Chain Analysis
+- Designed a **SQL database** to store and manage vendor and sales data efficiently  
+- Performed data analysis using **SQL, Python, and Excel** to evaluate vendor performance  
+- Identified underperforming vendors and operational inefficiencies using **statistical analysis**  
+- Built **Power BI dashboards** to track KPIs and supply chain performance  
+
+---
+
+### 🛒 GameZone E-commerce Analytics
+- Performed end-to-end analysis using **Excel, SQL, and Python**  
+- Identified product demand trends and customer purchase behavior  
+- Built interactive **Power BI dashboards** for business insights  
+
+---
+
+### 📊 Insurance Portfolio & Risk Analysis
+- Analyzed insurance data using **Python and SQL** to assess profitability and risk exposure  
+- Applied **statistical techniques** to evaluate claims and loss patterns  
+- Developed **Power BI dashboards** for performance monitoring  
 ---
 
 # 📊 GitHub Stats
